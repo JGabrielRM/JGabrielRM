@@ -34,7 +34,7 @@ Soy un apasionado estudiante de programación de software con experiencia en Rea
 <br>
 <br>
 📌 Actualmente, estoy trabajando en proyectos que integran frontend y backend, enfocándome en buenas prácticas y escalabilidad.                                                                                   
-## ⚙️ &nbsp;Estadísticas de Github
+## ⚙️ Estadísticas de Github
 
 <p align="center">
 <a href="https://github.com/JGabrielRM">
