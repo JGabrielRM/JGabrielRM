@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/jgabrielrm?style=social)](https://github.com/JGabrielRM)
 
 
-## Sobre mi 🙋‍♂️
+## 🙋‍♂️ Sobre mi 
 
 Soy un apasionado estudiante de programación de software con experiencia en React y Spring Boot. Siempre estoy explorando nuevas tecnologías y buscando formas de mejorar mis habilidades para desarrollar aplicaciones eficientes y escalables.
 <br>
@@ -34,9 +34,7 @@ Soy un apasionado estudiante de programación de software con experiencia en Rea
 <br>
 <br>
 📌 Actualmente, estoy trabajando en proyectos que integran frontend y backend, enfocándome en buenas prácticas y escalabilidad.
-<br>
-
-                                                                                      
+<br>                                                                                      
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
