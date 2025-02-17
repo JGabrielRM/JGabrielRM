@@ -12,6 +12,7 @@ Soy un apasionado estudiante de programación de software con experiencia en Rea
 
 🚀 Lo que me motiva:
 <br>
+<br>
 ✔ Crear soluciones innovadoras y optimizadas.
 <br>
 ✔ Escribir código limpio y mantenible.
@@ -21,6 +22,7 @@ Soy un apasionado estudiante de programación de software con experiencia en Rea
 
 🔧 Habilidades principales:
 <br>
+<br>
 ✔ Desarrollo web con React.js y su ecosistema.
 <br>
 ✔ Backend sólido con Spring Boot.
@@ -28,6 +30,7 @@ Soy un apasionado estudiante de programación de software con experiencia en Rea
 ✔ Consumo y diseño de APIs REST.
 <br>
 ✔ Trabajo en equipo y resolución de problemas.
+<br>
 <br>
 📌 Actualmente, estoy trabajando en proyectos que integran frontend y backend, enfocándome en buenas prácticas y escalabilidad.
 <br>
