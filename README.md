@@ -19,7 +19,7 @@ Soy un apasionado estudiante de programación de software con experiencia en Rea
 <br>
 ✔ Aprender constantemente y mantenerme actualizado con las últimas tendencias en tecnología.
 <br>
-
+<br>
 🔧 Habilidades principales:
 <br>
 <br>
