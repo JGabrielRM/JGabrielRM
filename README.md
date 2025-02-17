@@ -10,7 +10,7 @@
 
 Soy un apasionado estudiante de programación de software con experiencia en React y Spring Boot. Siempre estoy explorando nuevas tecnologías y buscando formas de mejorar mis habilidades para desarrollar aplicaciones eficientes y escalables.
 <br>
-
+<br>
 🚀 Lo que me motiva:
 <br>
 <br>
