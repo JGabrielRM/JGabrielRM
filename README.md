@@ -37,7 +37,7 @@ Soy un apasionado estudiante de programación de software con experiencia en Rea
 <br>                                                                                      
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
