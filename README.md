@@ -42,3 +42,6 @@ Soy un apasionado estudiante de programación de software con experiencia en Rea
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JGabrielRM&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## Contáctame
+[![Gmail](https://img.shields.io/badge/josegrmog@gmail.com-f44336?style=for-the-badge&logo=gmail&logoColor=white)](josegrmog@gmail.com)
