@@ -6,21 +6,29 @@
 [![GitHub followers](https://img.shields.io/github/followers/jgabrielrm?style=social)](https://github.com/JGabrielRM)
 
 
-## Sobre mi
+## Sobre mi 🙋‍♂️
 
 Soy un apasionado estudiante de programación de software con experiencia en React y Spring Boot. Siempre estoy explorando nuevas tecnologías y buscando formas de mejorar mis habilidades para desarrollar aplicaciones eficientes y escalables.
 
 🚀 Lo que me motiva:
+<br>
 ✔ Crear soluciones innovadoras y optimizadas.
+<br>
 ✔ Escribir código limpio y mantenible.
+<br>
 ✔ Aprender constantemente y mantenerme actualizado con las últimas tendencias en tecnología.
+<br>
 
 🔧 Habilidades principales:
-
-Desarrollo web con React.js y su ecosistema.
-Backend sólido con Spring Boot.
-Consumo y diseño de APIs REST.
-Trabajo en equipo y resolución de problemas.
+<br>
+✔ Desarrollo web con React.js y su ecosistema.
+<br>
+✔ Backend sólido con Spring Boot.
+<br>
+✔ Consumo y diseño de APIs REST.
+<br>
+✔ Trabajo en equipo y resolución de problemas.
+<br>
 📌 Actualmente, estoy trabajando en proyectos que integran frontend y backend, enfocándome en buenas prácticas y escalabilidad.
 <br>
 
